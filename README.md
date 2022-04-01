@@ -6,6 +6,9 @@
 - 🦅 Atualmente estudando a língua inglesa.
 - 📧 Contato através do email: caiquesenacosta2020@gmail.com
 
+![marioprogramando](https://user-images.githubusercontent.com/83735547/161190807-5358d6e7-6f4f-4616-aae9-4c821c64a49e.gif)
+
+
 <div align="center">
   <a href="https://github.com/reckergtx">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=reckergtx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -30,3 +33,5 @@
  
 ![Snake animation](https://github.com/reckergtx/reckergtx/blob/output/github-contribution-grid-snake.svg)    
   </div>
+
+ 
