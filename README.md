@@ -1,6 +1,6 @@
 ### Olá! Me chamo Caíque Sena 👋
 
-- ✨ Profissional em início de carreira e procurando a primeira oportunidade de trabalho.
+- ✨ Profissional em início de carreira.
 - 📕 Técnico em Desenvolvimento de Sistemas.
 - 📖 Graduando em Sistemas de Informação.
 - 🦅 Atualmente estudando a língua inglesa.
