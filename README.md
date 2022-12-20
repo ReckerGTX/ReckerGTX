@@ -3,9 +3,7 @@
 - ✨ Profissional em início de carreira.
 - 📕 Técnico em Desenvolvimento de Sistemas.
 - 📖 Graduando em Sistemas de Informação.
-- 🦅 Atualmente estudando a língua inglesa.
-- 📧 Contato através do email: caiquesenacosta2020@gmail.com
-- 🎯 Meta para 2022: Me tornar um desenvolvedor front-end
+
 
 ![marioprogramando](https://user-images.githubusercontent.com/83735547/161190807-5358d6e7-6f4f-4616-aae9-4c821c64a49e.gif)
 
